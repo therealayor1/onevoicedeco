@@ -1,0 +1,21 @@
+UPDATED PHOTOS ARE ALREADY INCLUDED IN THIS ZIP.
+
+The two page files that use the new pictures are rentals.html and decoration.html.
+
+1. On GitHub, open the main page of your onevoicedeco repository.
+2. Upload rentals.html and decoration.html from this ZIP's extracted folder. Commit.
+3. In the repository, open assets. Upload the nine files listed below from your extracted assets folder. Commit.
+4. Open the live site on your phone again after a few minutes.
+
+New pictures to upload inside assets:
+large-shooting-canopy.jpg
+small-canopy.jpg
+bridal-canopy.jpg
+rental-plates-spoons.jpg
+rental-coolers.jpg
+traditional-celebration.jpg
+birthday-party.jpg
+picnic-decor.jpg
+corporate-awards.jpg
+
+These are illustrative images, not photographs of the business's inventory.
